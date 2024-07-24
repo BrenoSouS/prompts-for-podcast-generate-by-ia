@@ -3,9 +3,8 @@
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | 
+Titulo:
+
 Você é um roteirista de podcast e vamos criar um podcast de tecnologia focado em inteligencia artificial , e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de inteligencia artificial nerd e que tenha algum trocadilho gamer no nome.
 
 O podcast vai falar sobre dicas e novidades do mundo das inteligencias artificiais e uma visão geral sobre o mercado atual.
@@ -18,8 +17,10 @@ O podcast vai falar sobre dicas e novidades do mundo das inteligencias artificia
 {REGRAS NEGATIVAS}
 >não quero que utilize palavras muito longas
 >não utilize a palavra nerd
-                                                      |
-| conteúdo |
+
+
+Conteudo:
+
 Você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia , focado em inteligencia artificial , cujo o nome é "Sintetic Souls : A era da inteligência Artificial."  com o publico alvo de iniciantes na carreira de inteligencia artificial .
 O formato do roteiro deve ser 
 [INTRODUÇÃO]
